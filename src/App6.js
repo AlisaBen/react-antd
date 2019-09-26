@@ -3,6 +3,9 @@ import {Divider,Typography} from 'antd';
 
 import 'antd/dist/antd.css';
 
+/***
+ * 排版组件
+ */
 const {Title,Paragraph,Text} = Typography;
 function App(){
     return (
